@@ -1,0 +1,21 @@
+# PlatformIO build files
+.pio/
+
+# VS Code local configuration
+.vscode/
+
+# Environment and secret files
+.env
+src/secrets.h
+include/secrets.h
+
+# Log files
+*.log
+
+# Local PlatformIO configuration backups
+platformio.ini.*.backup
+platformio.ini.before-microros
+
+# Local source-code backups
+*.backup
+*.backup+
